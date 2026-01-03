@@ -1,4 +1,4 @@
-# Turtle.pas
+# Delphi Turtle Graphics Library (Turtle.pas)
 
 A lightweight turtle graphics library for Delphi (FireMonkey / FMX), inspired by Python’s `turtle` module.
 
